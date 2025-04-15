@@ -1,5 +1,3 @@
-# 💫 About Me:
-Junior .Net Developer
 
 
 ## 🌐 Socials:
