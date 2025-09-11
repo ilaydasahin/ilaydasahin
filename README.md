@@ -1,19 +1,66 @@
+<h1 align="center">Hi 👋, I'm ilayda sahin</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahinilayda) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ilaydasahin&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ilaydasahin&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilaydasahin&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">💻 Full-Stack Developer | Web & App Enthusiast</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ilaydasahin&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
+
+### About Me
+
+- 🌐 I develop **full-stack applications** using **HTML, CSS, JavaScript, React, Java, Spring Boot**  
+- 🛠 I work with **PostgreSQL, Firebase, Postman, Git & GitHub** for backend and DevOps tasks  
+- 🌱 Always learning **cloud integration, advanced JavaScript frameworks, and modern web architectures**  
+- ⚡ Passionate about building **apps that solve real-world problems**
+
+---
+
+### Connect with me
+
+<a href="https://linkedin.com/in/sahinilayda" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:sahin.ilyd@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+---
+
+### Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=ilaydasahin&show_icons=true&theme=tokyonight" alt="Ilayda's GitHub stats" /></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ilaydasahin&theme=tokyonight" alt="ilaydasahin" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilaydasahin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" /></td>
+</tr>
+</table>
+
+---
+
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -28,3 +75,9 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+
+
+Code is like humor. When you have to explain it, it’s bad.
+
