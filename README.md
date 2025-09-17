@@ -8,7 +8,7 @@
 
 ### About Me
 
-- 🌐 I develop **full-stack applications** using **HTML, CSS, JavaScript, React, Java, Spring Boot**  
+- 🌐 I develop **full-stack applications** using ** Java, Spring Boot, HTML, CSS, JavaScript, React,**  
 - 🛠 I work with **PostgreSQL, Firebase, Postman, Git & GitHub** for backend and DevOps tasks  
 - 🌱 Always learning **cloud integration, advanced JavaScript frameworks, and modern web architectures**  
 - ⚡ Passionate about building **apps that solve real-world problems**
